@@ -1,0 +1,352 @@
+html{
+    background-color: rgb(11, 7, 7);
+    width: 50%;
+    
+}
+
+.logo{
+    position: relative;
+        top: 19px;
+        left: 25px;
+    height: 75px;
+    width: 75px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.cabecalho{
+    color: white;
+    position: relative;
+        top: -28px;
+        left: 175px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 13px;
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+
+
+}
+
+.cabecalho > div{
+    color: white;
+    position: relative;
+        top: -28px;
+        left: 140px;
+
+}
+
+.cabecalho > div > div{
+    color: white;
+    position: relative;
+        top: -30px;
+        left: 155px;
+
+}
+
+.cabecalho2{
+    color: white;
+    position: relative;
+        top: -133px;
+        left: 175px;
+    font-size: 13px;
+    font-family: 'Fjalla One', sans-serif;
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+}
+
+.cabecalho2 > div{
+    color: white;
+    position: relative;
+        top: -27px;
+        left: 140px;
+
+}
+
+.cabecalho2 > div > div{
+    color: white;
+    position: relative;
+        top: -29px;
+        left: 155px;
+
+}
+
+.msg{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.cabecalho2 > div > div > div{
+    color: white;
+    position: relative;
+        top: -25px;
+        left: 410px;
+    font-family: 'Fjalla One', sans-serif;
+    width: 200px;
+
+}
+
+.borda{
+    height: 75px;
+    width: 1020px;
+    position: absolute;
+        top: 27px;
+        left: 33px;
+    border: solid white;
+    border-width: 1px;
+}
+
+.borda2{
+    height: 690px;
+    width: 75px;
+    position: absolute;
+        top: 27px;
+        left: 33px;
+    border: solid white;
+    border-width: 1px;
+}
+
+.zap{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.insta{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.linkedin{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.servicos{
+    color: orange;
+}
+
+.fundo{
+    width: 265px;
+    height: 255px;
+    background-color: white;
+    border-radius: 7%;
+    position: absolute;
+}
+
+.fundo1{
+    position: absolute;
+        top: 140px;
+        left: 155px;
+}
+
+.fundo2{
+    position: absolute;
+        top: 425px;
+        left: 155px;
+
+}
+
+.fundo3{
+    position: absolute;
+        top: 140px;
+        left: 460px;
+
+}
+
+.fundo4{
+    position: absolute;
+        top: 140px;
+        left: 765px;
+}
+
+.fundo5{
+    position:absolute;
+        top: 425px;
+        left: 460px;
+
+}
+
+.fundo6{
+    position:absolute;
+        top: 425px;
+        left: 690px;
+
+}
+
+.fundo7{
+    position:absolute;
+        top: 425px;
+        left: 765px;
+
+}
+
+.textostitulos{
+    color: rgb(11, 7, 7);
+    font-size: 25px;
+    font-family:'Fjalla One', sans-serif;
+}
+
+.textos{
+    color: rgb(11, 7, 7);
+    font-size: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.titulo1{
+    position: absolute;
+        top: 270px;
+        left: 235px;
+}
+
+.texto1{
+    position: absolute;
+        top: 300px;
+        left: 185px;
+    text-align: center;
+
+}
+
+.titulo2{
+    position: absolute;
+        top: 560px;
+        left: 225px;
+}
+
+.texto2{
+    position: absolute;
+        top: 590px;
+        left: 190px;
+    text-align: center;
+
+}
+
+.titulo3{
+    position: absolute;
+        top: 270px;
+        left: 530px;
+}
+
+.texto3{
+    position: absolute;
+        top: 300px;
+        left: 490px;
+    text-align: center;
+
+}
+
+.titulo4{
+    position: absolute;
+        top: 270px;
+        left: 875px;
+}
+
+.texto4{
+    position:absolute;
+        top: 300px;
+        left: 800px;
+   text-align: center;
+
+}
+
+.titulo5{
+    position: absolute;
+        top: 560px;
+        left: 610px;
+}
+
+.texto5{
+    position: absolute;
+        top: 590px;
+        left: 520px;
+    text-align: center;
+
+}
+
+.icones{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+.icone1{
+    position:absolute;
+        top: -110px;
+        left: 250px;
+
+}
+
+.icone2{
+    position:absolute;
+        top: 190px;
+        left: 250px;
+
+}
+
+.icone3{
+    position:absolute;
+        top: -110px;
+        left: 557px;
+
+}
+
+.icone4{
+    position:absolute;
+        top: -110px;
+        left: 860px;
+
+}
+
+.icone5{
+    position:absolute;
+        top: 190px;
+        left: 700px;
+
+}
+
+.zap2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+        left: -28px;
+        top: 660px;
+}
+
+.insta2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+        left: -28px;
+        top: 574px;
+
+}
+
+.linkedin2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+        left: -28px;
+        top: 617px;
+
+}
+
+.msg2{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+        left: 895px;
+        top: 35px;
+
+}
